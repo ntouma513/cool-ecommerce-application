@@ -19,4 +19,7 @@
 
 ## Credits
 
+### https://dev.to/richienabuk/setting-up-express-js-rest-api-postgres-and-sequelize-orm-with-es6-4m08
+### Began with starter code provided from exercise
+
 ## Deployed Project
